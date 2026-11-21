@@ -12,6 +12,7 @@ gets to see itself.
 - 🏛️ **[Governance](https://github.com/open-ecosystem-collective/governance)**: values charter, maturity levels, decision process, pricing
 - 🔥 **[Open Ecosystem Fire Pit](https://github.com/open-ecosystem-collective/fire-pit)**: a quarterly community ritual
 - 📖 **[Open Ecosystem Success Stories](https://github.com/open-ecosystem-collective/stories)**: joint stories written by every company that built the project
+- 🤝 **[Collaboration Templates](https://github.com/open-ecosystem-collective/collaboration-templates)**: framework agreement, project addendum and meeting notes for companies that deliver customer projects together
 
 ## How it works
 
